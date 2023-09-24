@@ -4,7 +4,7 @@
 
 # Awesome Cybersecurity Handbooks [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/m/0xsyr0/Awesome-Cybersecurity-Handbooks)( moded by rTe4m ) ![GitHub contributors](https://img.shields.io/github/contributors/0xsyr0/Awesome-Cybersecurity-Handbooks)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/m/0xsyr0/Awesome-Cybersecurity-Handbooks)( moded by rT3am ) ![GitHub contributors](https://img.shields.io/github/contributors/0xsyr0/Awesome-Cybersecurity-Handbooks)
 
 A huge chunk of my personal notes since I started playing CTFs and working as a red teamer. These are living documents and I updated or add to them relatively often.
 
